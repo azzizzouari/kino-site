@@ -41,12 +41,6 @@ h3{
     color:var(--c2);
     border-color:var(--c2);
 }
-.hero{
-    background:url(/img/cinema.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height:30vw;
-}
 .container{
     border:2px solid var(--c1);
     border-radius: 1%;
